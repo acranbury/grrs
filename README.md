@@ -1,5 +1,5 @@
 # grrs
-Simple Rust implementation of grep
+Simple Rust implementation of `grep`
 
 Created by following the [Rust CLI Tutorial](https://rust-cli.github.io/book/tutorial/)
 
